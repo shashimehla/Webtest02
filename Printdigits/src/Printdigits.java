@@ -55,3 +55,17 @@ public class Printdigits {  //class
     }
 
 }
+
+class Motorfeature {  //class
+
+    public static void main(String[] args) {
+
+        if(args.equals("car"))
+            System.out.println("Ferrari car");
+
+        else
+            System.out.println("U r a bad programmer");
+
+
+    }
+}
